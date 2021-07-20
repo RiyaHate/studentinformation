@@ -1,0 +1,29 @@
+*{
+    margin: 20px;
+}
+.h2{ margin-top: 20px;
+    text-align: center;
+}
+.img{
+    height: 300px;
+    width: 300px;
+    border: 5px solid black;
+
+   
+}
+
+.d-flex {
+align-items: center;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  th, td {
+    padding:5px;
+  }
+  .button{
+      margin-left: 20px;
+  }
+body{
+    background-color: blanchedalmond;
+}
